@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Giacomo Grangia 👋
 
+I am a Cloud Engineer specializing in AWS with a strong background in managing complex cloud infrastructures within large organizations.
+
+
+## Events
+
+- **Platform Engineering Meetup: Milano #2**, July 2023  
+  Talk: Evoluzione della gestione dell'infrastruttura cloud: il nostro percorso verso il self-service (con AWS)
 <!--
 **ggrangia/ggrangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
