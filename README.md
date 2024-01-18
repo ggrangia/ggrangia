@@ -7,6 +7,11 @@ I am a Senior Cloud Engineer specialising in AWS with a strong background in man
 
 - **Platform Engineering Meetup: Milano #2**, July 2023  
   Talk: Evoluzione della gestione dell'infrastruttura cloud: il nostro percorso verso il self-service (con AWS)
+
+
+## How to reach me
+- [Linkedin](https://www.linkedin.com/in/giacomo-grangia/)
+
 <!--
 **ggrangia/ggrangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
