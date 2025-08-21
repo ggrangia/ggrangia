@@ -9,6 +9,9 @@ I am a Senior Cloud/Site Reliability Engineer specialising in AWS with a strong 
   Talk: Evoluzione della gestione dell'infrastruttura cloud: il nostro percorso verso il self-service (con AWS)
   Slides: [here](https://github.com/ggrangia/PlatformEngineeringMilano-2023-07-13)
 
+## Blogs
+- [Dev.to](https://dev.to/giacomograngia)
+
 
 ## How to reach me
 - [Linkedin](https://www.linkedin.com/in/giacomo-grangia/)
