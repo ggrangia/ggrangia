@@ -1,6 +1,6 @@
 ### Hi there, my name is Giacomo Grangia 👋
 
-I am a Senior Cloud Engineer specialising in AWS with a strong background in managing complex cloud infrastructures within large organisations.
+I am a Senior Cloud/Site Reliability Engineer specialising in AWS with a strong background in managing complex cloud infrastructures within large organisations.
 
 
 ## Events
